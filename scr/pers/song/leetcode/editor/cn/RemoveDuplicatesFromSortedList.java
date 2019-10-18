@@ -11,8 +11,8 @@
 // 输入: 1->1->2->3->3
 //输出: 1->2->3 
 // Related Topics 链表
-  
-package pers.song.leetcode.editor.cn;;
+//2019-10-16 ok
+package pers.song.leetcode.editor.cn;
 public class RemoveDuplicatesFromSortedList{
     public static void main(String[] args) {
 
